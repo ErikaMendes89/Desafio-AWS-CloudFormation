@@ -24,10 +24,6 @@ A infraestrutura modelada inclui:
 - **IAM Roles/Policies**: permissões mínimas necessárias para cada serviço.
 - **CloudWatch**: coleta logs e métricas para observabilidade.
 
-🖼️ **Diagrama de arquitetura**:
-
- :agentCitation{citationIndex='0' label='Arquitetura CloudFormation'}
-
 
 ---
 
