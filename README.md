@@ -41,10 +41,12 @@ O template CloudFormation define recursos como:
 - `AWS::CloudWatch::LogGroup` para logs da aplicação.
 
 ---
+
+
 ![FreddyKrugerJasonGIF (2)](https://github.com/user-attachments/assets/731acb86-8cd5-4f7e-8dc7-10319b7c25c2)
 
 
 
 
-## 📁 Estrutura do Repositório
+
 
